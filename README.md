@@ -111,14 +111,6 @@ The report provides:
   * An inferred OpenAPI specification of the discovered endpoints.
   * Actionable recommendations to help you fix the identified vulnerabilities.
 
-Here's an example of what the report looks like:
-
-\<p align="center"\>
-\<img src="[https://i.imgur.com/your-screenshot-link-here.png](https://www.google.com/search?q=https://i.imgur.com/your-screenshot-link-here.png)" alt="Example AstraScan Report Screenshot" /\>
-\<br\>
-\<small\>\<i\>(Replace this placeholder with a screenshot of your report for a professional touch)\</i\>\</small\>
-\</p\>
-
 
 ### 🤝 Contributing
 
