@@ -1,0 +1,42 @@
+{
+  "openapi": "3.0.0",
+  "info": {
+    "title": "Test API",
+    "version": "1.0.0"
+  },
+  "paths": {
+    "/posts/{id}": {
+      "get": {
+        "summary": "Get a specific post",
+        "parameters": [
+          { "name": "id", "in": "path", "required": true, "schema": { "type": "integer" } }
+        ],
+        "responses": {
+          "200": { "description": "OK" }
+        }
+      }
+    },
+    "/comments": {
+      "get": {
+        "summary": "Get all comments",
+        "responses": {
+          "200": { "description": "OK" }
+        }
+      },
+      "post": {
+        "summary": "Add a comment",
+        "responses": {
+          "201": { "description": "Created" }
+        }
+      }
+    },
+    "/users/old": {
+      "get": {
+        "summary": "Get old users (deprecated)",
+        "responses": {
+          "200": { "description": "OK" }
+        }
+      }
+    }
+  }
+}

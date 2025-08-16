@@ -1,0 +1,26 @@
+# --- Python Specific ---
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Built distributions and test results
+dist/
+build/
+*.egg-info/
+.coverage
+
+# Jupyter Notebook files
+.ipynb_checkpoints
+
+# --- AstraScan Specific ---
+# Ignore the reports directory and its contents
+# Reports can be large and may contain sensitive data
+reports/*
+
+
