@@ -1,4 +1,3 @@
-````markdown
 # 🚀 AstraScan: Intelligent API Discovery & Misconfiguration Scanner
 
 AstraScan is an intelligent, command-line tool designed to discover and audit API endpoints for common security misconfigurations and vulnerabilities.  
