@@ -134,7 +134,7 @@ The report provides:
 
 ## 👨‍💻 Author
 
-AstraScan was created by **SRIVATSA**.
+AstraScan was created by **SRIVATSA K**.
 
 ---
 
