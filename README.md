@@ -1,7 +1,6 @@
 # 🚀 AstraScan: Intelligent API Discovery & Misconfiguration Scanner
 
-AstraScan is an intelligent, command-line tool designed to discover and audit API endpoints for common security misconfigurations and vulnerabilities.  
-By combining an automated endpoint fuzzer, a recursive crawler, and a powerful analysis engine, it helps you uncover hidden attack surfaces and security flaws in your APIs with a single command.
+AstraScan is an intelligent, command-line tool designed to discover and audit API endpoints for common security misconfigurations and vulnerabilities. By combining an automated endpoint fuzzer, a recursive crawler, and a powerful analysis engine, it helps you uncover hidden attack surfaces and security flaws in your APIs with a single command.
 
 ---
 
